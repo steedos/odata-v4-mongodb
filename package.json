@@ -34,7 +34,7 @@
     "homepage": "https://github.com/jaystack/odata-v4-mongodb#readme",
     "dependencies": {
         "odata-v4-literal": "^0.1.0",
-        "odata-v4-parser": "git+https://github.com/steedos/odata-v4-parser.git#master"
+        "odata-v4-parser": "git://github.com/steedos/odata-v4-parser.git#master"
     },
     "devDependencies": {
         "chai": "^3.5.0",
